@@ -91,10 +91,5 @@ Contributions are welcome! Please follow these steps:
    ```
 5. Open a pull request on the original repository.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 If you encounter any issues, feel free to open an issue in the repository. Happy coding!
 
